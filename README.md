@@ -1,5 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Frmfls2017.github.com)](https://hits.seeyoufarm.com)                       
 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://rmfls2017.github.io/)](https://rmfls2017.github.io/)
 ### Hi there 👋
 
 <!--
